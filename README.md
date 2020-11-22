@@ -1,2 +1,3 @@
 # CS50x
-This is CS50x , Harvard University's introduction to the intellectual enterprises of computer science and the art of programming.
+
+This repository is dedicated to my submitions to CS50x projects. CS50x is the online version of Harvard University's introduction to computer science and programming.
