@@ -14,7 +14,7 @@ The live version of the project can be found at https://scratch.mit.edu/projects
 
 #### My C projects: Mario, Cash and Credit
 
-Details can be found here: https://github.com/rfaria/CS50x/tree/main/Week%201%20%7C%20C
+Details can be found here: [week 1 - C](https://github.com/rfaria/CS50x/tree/main/Week%201%20%7C%20C "Week 1 | C")
 
 ### Week 2 | Arrays
 ### Week 3 | Algorithms
