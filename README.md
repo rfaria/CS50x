@@ -14,7 +14,7 @@ The live version of the project can be found at https://scratch.mit.edu/projects
 
 #### My projects: Mario, Cash and Credit
 
-The default projects for week 1 involved simple implementations of loops, conditionals and functions in C. Details can be found here: [Week 1 | C](https://github.com/rfaria/CS50x/tree/main/Week%201%20%7C%20C "Week 1 | C")
+The default projects for week 1 involved simple implementations of loops, conditionals, functions and input/output interactions. Details can be found here: [Week 1 | C](https://github.com/rfaria/CS50x/tree/main/Week%201%20%7C%20C "Week 1 | C")
 
 ### Week 2 | Arrays
 ### Week 3 | Algorithms
