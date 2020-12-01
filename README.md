@@ -19,6 +19,13 @@ The live version of the project can be found at https://scratch.mit.edu/projects
 
 #### My projects: Mario, Cash and Credit
 
+<p align="center">
+  <img src="https://github.com/rfaria/CS50x/blob/main/Week%201%20%7C%20C/mario-less.png" width="400" title="Mario Less | CS50x">
+  <img src="https://github.com/rfaria/CS50x/blob/main/Week%201%20%7C%20C/mario-more.png" width="400" title="Mario More | CS50x">
+  <img src="https://github.com/rfaria/CS50x/blob/main/Week%201%20%7C%20C/cash.png" width="400" title="Cash | CS50x">
+  <img src="https://github.com/rfaria/CS50x/blob/main/Week%201%20%7C%20C/credit.png" width="400" title="Credit | CS50x">
+</p>
+
 The default projects for week 1 involved simple implementations of loops, conditionals, functions and input/output interactions. Details can be found here: [Week 1 | C](https://github.com/rfaria/CS50x/tree/main/Week%201%20%7C%20C "Week 1 | C")
 
 ### Week 2 | Arrays
